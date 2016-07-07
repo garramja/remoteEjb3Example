@@ -9,9 +9,9 @@ Ejb project for deploy at jBoss.
 War project for invoke remote ejb running on jboss server.
 
 #Test
-Run jbossDeploy 
-Deploy ejbRemoto.jar. You can get it from ejbRemoto\out\artifacts\ejbRemoto_jar folder or generate with you favourite ide. 
-Run tomcat
-Deploy ejbTesting.war. You can get it from ejbTesting\out\artifacts\ejbTesting folder or generate with you favourite ide. 
-Type on your internet navigator http://localhost:8080 or url configured in your tomcat.
-Submit the form.
+* Run jbossDeploy 
+* Deploy ejbRemoto.jar. You can get it from ejbRemoto\out\artifacts\ejbRemoto_jar folder or generate with you favourite ide. 
+* Run tomcat
+* Deploy ejbTesting.war. You can get it from ejbTesting\out\artifacts\ejbTesting folder or generate with you favourite ide. 
+* Type on your internet navigator http://localhost:8080 or url configured in your tomcat.
+* Submit the form.
